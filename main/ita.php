@@ -57,7 +57,10 @@ $objQuery = mysqli_query($objCon, $strSQL);
     flex: 0 0 auto;
     width: 20%;
   }
-  
+  .col-3 {
+    flex: 0 0 auto;
+    width: 20%;
+  }
   </style>
 
   <body>
